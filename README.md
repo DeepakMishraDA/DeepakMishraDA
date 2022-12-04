@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a backend engineer currently working [@Green-Fusion](https://www.green-fusion.de/) , Berlin. I am ardent supporter of Iot and DeFi aiming a secure and hassle free future through mass-digitilization.
+
 <!--
 **DeepakMishraDA/DeepakMishraDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
