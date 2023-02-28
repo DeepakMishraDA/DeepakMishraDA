@@ -1,4 +1,4 @@
-## Hi there this is Deepak👋
+## Hi there! this is Deepak👋
 
 I am a backend engineer currently working at [Green-Fusion](https://www.green-fusion.de/) , Berlin, Germany.
 <!--
